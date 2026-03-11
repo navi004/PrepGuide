@@ -424,7 +424,7 @@ The paper covers: literature survey, system architecture, multi-agent methodolog
 **Naveen Nidadavolu**  
 Integrated M.Tech CSE (Business Analytics)  
 Vellore Institute of Technology, Chennai  
-📧 naveen.nidadavolu2022@vitstudent.ac.in  
+📧 naveen.ndd2004@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/naveen-nidadavolu-482254250/)  
 🐙 [GitHub](https://github.com/navi004)
 
