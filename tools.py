@@ -129,7 +129,7 @@ class InterviewSearchTool(BaseTool):
         "gl": "in"
         })
         headers = {
-        'X-API-KEY': 'c17b64c48e1abf0bb50437790cd7e183f79065ae',
+        'X-API-KEY': api_key,
         'Content-Type': 'application/json'
         }
 
@@ -230,3 +230,4 @@ class SerperScrapeTool(BaseTool):
 
 # Instantiate the tool
 scrape_website = SerperScrapeTool()
+
