@@ -3,7 +3,7 @@
 > **"Ace Your Next Interview with AI"**  
 > An end-to-end, resume-personalized interview preparation system powered by multi-agent AI orchestration.
 
-![Landing Page](screenshots/landing_page.png)
+![Landing Page](/screenshots/landing_page.png)
 <!-- Replace with actual screenshot of the Interview Ace landing page -->
 
 ---
