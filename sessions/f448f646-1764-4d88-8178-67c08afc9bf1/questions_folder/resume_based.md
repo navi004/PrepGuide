@@ -1,0 +1,7 @@
+## Resume-Based Questions
+
+1. In your skin cancer detection project, you used a "late fusion multimodal ML model." Could you walk me through why you chose a late fusion approach over early or intermediate fusion, and what specific challenges this presented?
+2. Your AI-Driven CI/CD pipeline project mentions using LLMs for code generation and review. Can you elaborate on the specific role the LLM played and how you handled potential issues like code hallucinations or ensuring the generated code met quality standards?
+3. Regarding your UI/UX internship at Enyard, describe the process you followed for the design-to-development handoff of the "Booba" taxi app. What were the most critical pieces of information you provided to the developers to ensure your Figma designs were implemented accurately?
+4. Your Quantum Convolutional Neural Network project is quite unique. What was the primary motivation for exploring a quantum approach for the Fashion MNIST classification problem, and what were the practical trade-offs you observed compared to a classical CNN?
+5. Your MTech specialization is in Business Analytics. How do you see this academic focus complementing your skills in software engineering and UI/UX design, particularly in a client-facing environment like Deloitte?

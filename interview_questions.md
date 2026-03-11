@@ -1,0 +1,27 @@
+## Resume-Based Questions
+1. Your "SuperGit" project mentions using LLMs to automate a CI/CD pipeline. Can you walk me through the architecture of this system and specifically explain the role the LLM plays in code generation and review? What were the main challenges in integrating the LLM?
+2. In your Skin Cancer Classification project, you achieved 98.11% accuracy with a multimodal model. Could you elaborate on what "multimodal" means in this context, what different data types you used, and how you engineered them to work together?
+3. Your current role is a UI/UX Design Intern, and your resume highlights strong skills in Figma and user research. How do you see this design-centric experience contributing to your effectiveness as a Software Developer Engineer, particularly in collaborating with product and design teams?
+4. The Quantum CNN project is fascinating. What motivated you to explore quantum layers for a classical problem like Fashion MNIST classification, and what were the key trade-offs you observed between the quantum-enhanced model and a purely classical deep learning model?
+5. Your profile shows a strong specialization in both Business Analytics and Machine Learning, alongside your UI/UX internship. Why are you pursuing a Software Developer Engineer role specifically, and how do you envision applying this diverse skill set at a firm like Deloitte?
+
+## Technical Questions
+1. Explain the difference between a B-Tree and a Hash Map for indexing a database. In what scenarios would you choose one over the other?
+2. Describe the principles of RESTful APIs. What does it mean for an API endpoint to be idempotent, and can you give an example of an idempotent HTTP method versus a non-idempotent one?
+3. You are given a large, unsorted log file where each line contains a timestamp and a message. How would you efficiently find the top K most frequent error messages that occurred within a specific time window? Describe the data structures and algorithms you would use and analyze the time complexity.
+4. What is the difference between a microservices architecture and a monolithic architecture? Discuss two potential benefits and two potential drawbacks of choosing a microservices approach for a large-scale enterprise application.
+5. In Java, what is the difference between an `interface` and an `abstract class`? Provide a practical example of when you would choose to use one over the other.
+
+## Behavioral Questions
+1. Tell me about a time you had to work on a project with a team member who had a very different technical background or skill set from yours. How did you ensure effective communication and collaboration to achieve the project's goals?
+2. Describe the most complex technical problem you've faced in one of your projects. Walk me through your thought process, the steps you took to analyze the problem, the solution you implemented, and the final outcome.
+3. As a member of the Microsoft Innovation Club, can you give an example of a time you took the initiative on a project or an event? What was your role, and what was the result of your leadership?
+4. Tell me about a time a project did not go according to plan or a technical approach you chose failed. What happened, what did you learn from the experience, and what would you do differently next time?
+5. Imagine you need to explain the business value of your machine learning model for skin cancer detection to a non-technical client at Deloitte. How would you describe its functionality and impact without using complex technical jargon?
+
+## Technical Scenario-Based Questions
+1. A client wants to build a mobile application for real-time injury rehabilitation, similar to the one you designed. They need a feature that tracks a user's exercise movements via their phone's camera and provides immediate feedback on their form. Outline the high-level technical architecture for this feature, from the mobile client to the backend processing.
+2. You are tasked with deploying your skin cancer classification model as a scalable web service. The service will receive image uploads and must return a classification result in under 500 milliseconds. Describe the infrastructure and technology stack you would use to build and deploy this service, considering scalability and performance.
+3. A critical API endpoint in your application, which retrieves user profile data from a MySQL database, has become very slow. Users are reporting long load times. What are the first five steps you would take to systematically diagnose the root cause of this performance issue?
+4. Imagine you are building a system to process and analyze customer feedback from multiple sources (social media, emails, surveys). The goal is to identify trending topics and sentiment in real-time. How would you design a data pipeline to ingest, process, and analyze this unstructured text data? Mention the key components and technologies you might use.
+5. Drawing on your "SuperGit" project, you are asked to design a security-focused enhancement for a company's CI/CD pipeline. The goal is to automatically scan code for common security vulnerabilities (like SQL injection or exposed API keys) before it can be merged into the main branch. How would you implement this?

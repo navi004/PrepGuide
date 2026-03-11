@@ -1,0 +1,23 @@
+**Career Summary:**
+
+Naveen Nidadavolu is a highly motivated and skilled Integrated MTech student specializing in Business Analytics, with a strong foundation in UI/UX design, data science, and machine learning. Currently interning as a UI/UX Design Intern at Enyard, Naveen is proficient in designing and prototyping user-centered applications using Figma, while also conducting user research and usability testing. Naveen's academic background is complemented by a robust skillset in programming languages such as Python, Java, and R, along with expertise in web technologies, databases, and a wide array of tools and libraries including TensorFlow, Keras, and OpenCV. Naveen has a proven track record of applying machine learning and AI techniques to solve complex problems, as demonstrated by contributions to research papers and the development of innovative projects. Naveen is also actively involved in the Microsoft Innovation Club (AI&ML) at VIT Chennai, further solidifying his commitment to innovation and collaboration.
+
+**Executive Profile:**
+
+*   **Core Specialization:** UI/UX Design, Data Science, Machine Learning, Business Analytics.
+*   **Technical Stack:**
+    *   **Programming Languages:** Python, Java, C, PL/SQL, R.
+    *   **Web Technologies:** HTML, CSS.
+    *   **Databases:** MySQL, SQL, SQLite.
+    *   **Tools & Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, Keras, Pennylane, Flask, OpenCV, Git, GitHub, REST APIs, Figma, Canva, Blender (Basics), Tableau, Matplotlib, Seaborn.
+*   **Quantifiable Impact:**
+    *   **Skin Cancer Classification Project:** Developed a multimodal ML model achieving 98.11% accuracy and F1-score, significantly outperforming individual models.
+    *   **SuperGit Project:** Built an automated CI/CD pipeline using LLMs and GitHub Actions, enabling code generation, review, and automated testing.
+    *   **Quantum CNN Project:** Enhanced a classical model with quantum layers, achieving 84.5% accuracy in Fashion MNIST classification, demonstrating performance improvement.
+*   **Key Leadership/Challenge Areas:**
+    *   **UI/UX Design:** Demonstrated ability to design and prototype user-friendly applications, conduct user research, and collaborate with development teams.
+    *   **Machine Learning & AI:** Experience in supervised & unsupervised learning, deep learning, reinforcement learning, and LLMs.
+    *   **Research & Development:** Co-authored research papers and developed innovative projects, including a telehealth-friendly solution for skin cancer detection.
+    *   **Teamwork & Collaboration:** Active participation in the Microsoft Innovation Club (AI&ML) and collaboration with developers and designers.
+    *   **Problem-Solving:** Designed a Figma-based mobile app for muscle recovery and injury rehabilitation, showcasing problem-solving skills.
+    *   **Academic Excellence:** Maintained a CGPA of 9.31*.

@@ -1,0 +1,7 @@
+## Resume-Based Questions
+
+1. In your project on skin cancer classification, you used a "late fusion multimodal ML model." Could you walk me through what "late fusion" means in this context and why you chose this specific architecture over other fusion techniques or single-modality models?
+2. Your "SuperGit" project mentions an AI-driven CI/CD pipeline using LLMs. Can you elaborate on the specific role the LLM plays in this pipeline? How did you handle challenges like ensuring the generated code was correct and secure before integration?
+3. The Quantum Convolutional Neural Network project is quite unique. What was your motivation for exploring quantum layers for a classical problem like Fashion MNIST classification, and what were the primary technical hurdles you faced when integrating quantum computing concepts with a traditional deep learning framework?
+4. Regarding your UI/UX internship at Enyard, you designed the "Booba" taxi app in Figma. What was the most critical piece of user feedback you received during the research phase, and how did it directly influence a specific design decision in your final prototype?
+5. You won 2nd place in Ideathon’24 for designing a mobile app for muscle recovery. Beyond the idea itself, what technical components and architecture did you propose to make this app feasible, and what potential challenges did you identify in its implementation?

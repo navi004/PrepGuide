@@ -1,0 +1,41 @@
+PyPDF2
+requests
+
+# Core CrewAI
+crewai
+crewai-tools
+
+# LLM (Google Gemini via LangChain)
+langchain-google-genai
+# langchain-core and langchain are usually installed as dependencies
+
+# Gradio and UI/Plotting
+gradio
+matplotlib
+plotly
+pandas
+
+# PDF Reading
+pypdf
+
+# Text-to-Speech
+gTTS
+# pyttsx3 # Alternative TTS, uncomment if you switch
+
+# Speech-to-Text (CMU Sphinx - Offline)
+SpeechRecognition
+pocketsphinx
+# If using Whisper API instead, replace SpeechRecognition/pocketsphinx with:
+# openai
+
+# Web Scraping (Selenium - Local Browser)
+selenium
+webdriver-manager
+
+# Environment Variables
+python-dotenv
+
+# Google API Core (often needed by google-genai)
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib

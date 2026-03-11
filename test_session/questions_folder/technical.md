@@ -1,0 +1,7 @@
+## Technical Questions
+
+1. How would you implement a thread-safe LRU (Least Recently Used) cache from scratch? Describe the data structures you would choose to ensure efficient get and put operations, and explain the locking mechanism you'd use to handle concurrent access.
+2. You are given a stream of numbers and you need to be able to find the median at any point in time. Describe an efficient algorithm and the data structures you would use to solve this. What is the time complexity for adding a number and for finding the median?
+3. Explain the difference between process-based and thread-based concurrency. In the context of Python, how does the Global Interpreter Lock (GIL) affect the performance of CPU-bound vs. I/O-bound multi-threaded applications?
+4. Consider a very large, sorted array of integers that has been rotated an unknown number of times. How would you efficiently find a specific target integer within this array? Analyze the time complexity of your solution.
+5. What is database indexing and why is it important for performance? Explain the difference between a B-Tree index and a Hash index, and describe a scenario where one would be significantly more effective than the other.

@@ -1,0 +1,27 @@
+## Resume-Based Questions
+1. In your skin cancer detection project, you used a "late fusion multimodal ML model." Could you walk me through why you chose a late fusion approach over early or intermediate fusion, and what specific challenges this presented?
+2. Your AI-Driven CI/CD pipeline project mentions using LLMs for code generation and review. Can you elaborate on the specific role the LLM played and how you handled potential issues like code hallucinations or ensuring the generated code met quality standards?
+3. Regarding your UI/UX internship at Enyard, describe the process you followed for the design-to-development handoff of the "Booba" taxi app. What were the most critical pieces of information you provided to the developers to ensure your Figma designs were implemented accurately?
+4. Your Quantum Convolutional Neural Network project is quite unique. What was the primary motivation for exploring a quantum approach for the Fashion MNIST classification problem, and what were the practical trade-offs you observed compared to a classical CNN?
+5. Your MTech specialization is in Business Analytics. How do you see this academic focus complementing your skills in software engineering and UI/UX design, particularly in a client-facing environment like Deloitte?
+
+## Technical Questions
+1. When would you choose to use a hash map versus a balanced binary search tree to store and retrieve data? Discuss the trade-offs in terms of time complexity for insertion, deletion, and search operations.
+2. Explain the core differences between the Quicksort and Mergesort algorithms. Describe a scenario where Quicksort's average-case performance would be ideal, and another scenario where Mergesort's stable, worst-case performance would be more suitable.
+3. What is a database index, and how does it improve query performance? Can you provide an example of a query that would benefit from an index and a situation where adding an index might actually degrade performance?
+4. Describe the key principles of a RESTful API. What are the standard HTTP methods, and how do they map to CRUD (Create, Read, Update, Delete) operations?
+5. Explain the difference between `git merge` and `git rebase`. In a collaborative project with multiple developers, what are the primary arguments for enforcing a rebase-based workflow over a merge-based one?
+
+## Behavioral Questions
+1. Tell me about a time you had a significant disagreement with a team member on a technical decision. How did you approach the situation, what steps did you take to resolve the conflict, and what was the final outcome?
+2. Describe the most complex technical problem you've encountered in one of your projects. Walk me through your thought process, the steps you took to diagnose and understand the problem, and how you ultimately arrived at a solution.
+3. You've led several academic projects. Can you share an example of a time you had to motivate your team to overcome a major obstacle or meet a particularly challenging deadline? What was your approach?
+4. Your resume shows experience with a wide range of technologies, from Flask to TensorFlow to Quantum computing libraries. Describe a situation where you had to learn a completely new technology in a short amount of time to complete a project. How did you structure your learning process?
+5. Imagine you need to explain the business value of your AI-driven CI/CD pipeline to a non-technical project manager at a client. How would you articulate its benefits without getting lost in technical jargon?
+
+## Technical Scenario-Based Questions
+1. You are tasked with designing a system to track the real-time location of delivery vehicles for a logistics company. The system must display vehicle locations on a map for a central dispatcher. Describe a high-level architecture for this system, including how vehicles would send data, how the data would be processed, and how it would be delivered to the dispatcher's web interface.
+2. A client's e-commerce application, built with a Python backend and a SQL database, is performing slowly. The product search feature, which filters by category, price, and user ratings, is the main bottleneck. Outline your step-by-step approach to diagnose and resolve this performance issue.
+3. You need to build a feature that allows users to upload an image and have the system automatically tag it with relevant keywords (e.g., "sunset," "beach," "dog"). You can use pre-trained models. Describe the components you would need, the API endpoints you might design, and how you would handle the image data from request to response.
+4. You have just completed a Figma prototype for a new user registration flow that includes social media sign-in options. The development team is about to begin implementation. What specific assets, documentation, and specifications would you provide to ensure they can build the feature exactly as designed, including handling different states like loading, error, and success?
+5. You are building a data processing pipeline that ingests daily log files from a web server, extracts user activity metrics, and stores aggregated results in a Tableau-ready format. The log files are large and the processing is time-consuming. How would you design this pipeline to be automated, resilient to failures (e.g., a malformed log file), and scalable as web traffic grows?

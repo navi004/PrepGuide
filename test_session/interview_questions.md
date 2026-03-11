@@ -1,0 +1,27 @@
+## Resume-Based Questions
+1. In your "Late Fusion Multimodal ML for Skin Cancer Classification" project, you achieved 98.11% accuracy. Can you walk me through the decision-making process for choosing a late fusion architecture over early or intermediate fusion, and what specific challenges you encountered when integrating the outputs of the CNN and RFC models?
+2. Your "SuperGit" project uses LLMs for an automated CI/CD pipeline. Could you elaborate on the specific tasks the LLM performs, such as code generation or review? How did you engineer your prompts and what measures did you implement to handle potential inaccuracies or security vulnerabilities from the LLM-generated code?
+3. Developing a Quantum Convolutional Neural Network is a highly specialized task. What was the most significant conceptual or implementation challenge you faced when working with Pennylane, and how did you reason about the trade-offs between a QCNN and a classical CNN for the Fashion MNIST dataset?
+4. During your UI/UX internship at Enyard, you designed the "Booba" taxi app. Describe a specific instance where user research or usability testing feedback led to a significant pivot in your initial design for a key user flow, like the booking process or payment screen.
+5. Your profile highlights a strong dual focus in both deep Machine Learning and UI/UX design. How do you believe these two disciplines inform each other in your work, and can you provide an example from a project where your understanding of user experience directly influenced your approach to building an ML model or system?
+
+## Technical Questions
+1. How would you implement a thread-safe LRU (Least Recently Used) cache from scratch? Describe the data structures you would choose to ensure efficient get and put operations, and explain the locking mechanism you'd use to handle concurrent access.
+2. You are given a stream of numbers and you need to be able to find the median at any point in time. Describe an efficient algorithm and the data structures you would use to solve this. What is the time complexity for adding a number and for finding the median?
+3. Explain the difference between process-based and thread-based concurrency. In the context of Python, how does the Global Interpreter Lock (GIL) affect the performance of CPU-bound vs. I/O-bound multi-threaded applications?
+4. Consider a very large, sorted array of integers that has been rotated an unknown number of times. How would you efficiently find a specific target integer within this array? Analyze the time complexity of your solution.
+5. What is database indexing and why is it important for performance? Explain the difference between a B-Tree index and a Hash index, and describe a scenario where one would be significantly more effective than the other.
+
+## Behavioral Questions
+1. Tell me about the most technically challenging bug you've had to fix. Walk me through your process for identifying the root cause, what you learned from it, and how you ensured it wouldn't happen again.
+2. Describe a situation where you had a strong disagreement with a team member on a technical decision for a project. How did you approach the conflict, what steps did you take to resolve it, and what was the final outcome?
+3. Your resume shows you've worked on several complex projects, from Quantum ML to CI/CD pipelines. Tell me about a time a project's requirements changed significantly midway through development. How did you and your team adapt to the changes?
+4. Describe a time you took the initiative to improve a process or a feature that wasn't part of your direct responsibilities. What motivated you, what was the impact of your initiative, and what challenges did you face?
+5. Tell me about a time you failed to meet a deadline or a project goal. What was the situation, what did you learn from the experience, and what would you do differently if you could go back?
+
+## Technical Scenario-Based Questions
+1. You are tasked with designing the backend for a URL shortening service like bit.ly. Describe the high-level architecture. How would you generate unique short URLs, how would you store the mapping, and how would you design the system to handle millions of redirection requests per day with low latency?
+2. Imagine you are designing a feature for Google Photos that automatically suggests tags for an uploaded image (e.g., "beach," "dog," "sunset"). Outline the system design for this feature, from the moment a user uploads a photo to when they see the suggested tags. Consider the ML model, API design, and how you would handle scalability.
+3. You need to build a system that can process a massive stream of real-time event data (e.g., clicks on a website) and provide a dashboard showing the top 10 most frequent event types over the last 5 minutes. How would you approach this problem? Describe the components of your system and the data structures you might use.
+4. You are building a collaborative text editor similar to Google Docs. Describe the data structure you would use to represent the document on the server and the algorithm or protocol you would implement to handle concurrent edits from multiple users while ensuring consistency for everyone.
+5. Design a rate-limiting system for a public API. The system should be able to enforce limits like "100 requests per user per minute." Explain how you would track request counts for each user efficiently and how the system would behave in a distributed environment with multiple API servers.
